@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/transactionserver/TransactionManager.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>79</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Alex/Documents/NetBeansProjects/TransactionServer/src/transactionserver/server/TransServer.java</file>
+            <file>file:/C:/Users/Alex/Documents/NetBeansProjects/TransactionServer/src/TransactionServer/client/TransServerProxy.java</file>
+            <file>file:/C:/Users/Alex/Documents/NetBeansProjects/TransactionServer/src/TransactionServer/data/DataManager.java</file>
+            <file>file:/C:/Users/Alex/Documents/NetBeansProjects/TransactionServer/src/transactionserver/server/TransManager.java</file>
+            <file>file:/C:/Users/Alex/Documents/NetBeansProjects/TransactionServer/src/TransactionServer/client/TransClient.java</file>
+            <file>file:/C:/Users/Alex/Documents/NetBeansProjects/TransactionServer/src/TransactionServer/comm/Message.java</file>
+            <file>file:/C:/Users/Alex/Documents/NetBeansProjects/TransactionServer/src/TransactionServer/comm/MessageTypes.java</file>
+        </group>
+    </open-files>
+</project-private>
